@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>KnightOne Bootstrap Template - Index</title>
+  <title>Trabalhe de onde e quando quiser</title>
   <meta name="robots" content="noindex, nofollow">
   <meta content="" name="description">
   <meta content="" name="keywords">
@@ -90,8 +90,8 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-xl-8">
-          <h1>KnightOne - Create Bootstrap Website Template</h1>
-          <h2>We are team of designers making websites with Bootstrap</h2>
+          <h1>Trabalhe de onde quiser utilizando tecnologia</h1>
+          <h2>Você sabia que trabalhar com tecnologia e internet você terá uma maior mobilidade ?</h2>
           <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
         </div>
       </div>

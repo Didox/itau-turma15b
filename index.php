@@ -92,7 +92,8 @@
         <div class="col-xl-8">
           <h1>Trabalhe de onde quiser utilizando tecnologia</h1>
           <h2>Você sabia que trabalhar com tecnologia e internet você terá uma maior mobilidade ?</h2>
-          <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
+          <h2>Clique no play abaixo 👇</h2>
+          <a target="_blank" href="https://api.whatsapp.com/send?phone=55111111111111&text=Ol%C3%A1%20quero%20comprar%20o%20seu%20produto" class="glightbox play-btn mb-4"></a>
         </div>
       </div>
     </div>

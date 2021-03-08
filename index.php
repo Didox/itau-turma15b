@@ -96,7 +96,9 @@
           <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
 
           <h2>Clique no link abaixo 👇 para agendar sua consultoria</h2>
-          <a target="_blank" href="https://api.whatsapp.com/send?phone=55111111111111&text=Oi%20quero%20marcar%20uma%20consultoria" >Agendar consultoria</a>
+          <a target="_blank" href="https://api.whatsapp.com/send?phone=55111111111111&text=Oi%20quero%20marcar%20uma%20consultoria" >
+            Agendar consultoria
+          </a>
         </div>
       </div>
     </div>
@@ -468,8 +470,10 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Tabela de preços</h2>
+          <p>
+            Escolha qual o plano ideal para você.
+          </p>
         </div>
 
         <div class="row">
@@ -477,7 +481,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="box">
               <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <h4><sup>R$</sup>20<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -486,7 +490,7 @@
                 <li class="na">Massa ultricies mi</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="https://pag.ae/7WVRcGdMa" class="btn-buy">Assinar</a>
               </div>
             </div>
           </div>
@@ -495,7 +499,7 @@
             <div class="box recommended">
               <span class="recommended-badge">Recommended</span>
               <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+              <h4><sup>R$</sup>50<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -504,7 +508,7 @@
                 <li class="na">Massa ultricies mi</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="https://pag.ae/7WVRcGdMa" class="btn-buy">Assinar</a>
               </div>
             </div>
           </div>
@@ -512,7 +516,7 @@
           <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
             <div class="box">
               <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h4><sup>R$</sup>500<span> / month</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -521,7 +525,7 @@
                 <li>Massa ultricies mi</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="https://pag.ae/7WVRcGdMa" class="btn-buy">Assinar</a>
               </div>
             </div>
           </div>
